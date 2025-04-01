@@ -15,12 +15,12 @@ git clone https://github.com/chisomobanja/phishing-detector.git
 cd phishing-detector
 
 Install the required packages:
-Copypip install requests tldextract
+pip install requests tldextract
 
 
 Usage
 Run the program with:
-Copypython detector.py
+python detector.py
 Then simply enter any URL you want to check. The program will tell you if it appears safe or suspicious.
 Type quit to exit the program.
 Development Roadmap
