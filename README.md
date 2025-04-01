@@ -1,5 +1,6 @@
 Phishing URL Detector
 A simple command-line tool to check if a URL might be a phishing site.
+Please note that the current phishing URL database is very minimal and shallow and it will continue to be expanded. Please ensure other resources are used together with the phising-detector to ensure that a URL is safe
 Features
 
 Checks URLs against known phishing sites
